@@ -1,1 +1,1 @@
-Ejercicio sencillo para crear objetos con Pygama
+Ejercicio sencillo para crear objetos con Pygame
